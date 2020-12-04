@@ -1,0 +1,14 @@
+{
+  "development": {
+    "dialect": "sqlite",
+    "storage": "ratings-restapi.db"
+  },
+  "test": {
+    "dialect": "sqlite",
+    "storage": "ratings-restapi.db"
+  },
+  "production": {
+    "dialect": "sqlite",
+    "storage": "ratings-restapi.db"
+  }
+}
